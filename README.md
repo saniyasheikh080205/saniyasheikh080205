@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **python, sql**
+- 💬 Ask me about **java, Mysql**
 
 - 📫 How to reach me **saniyasheikh080205@gmail.com**
 
